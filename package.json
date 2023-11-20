@@ -10,9 +10,12 @@
   },
   "dependencies": {
     "amfe-flexible": "^2.2.1",
+    "pinia": "^2.1.7",
     "postcss-pxtorem": "^6.0.0",
+    "sass": "^1.69.5",
     "vant": "^4.8.0",
-    "vue": "^3.3.8"
+    "vue": "^3.3.8",
+    "vue-router": "4"
   },
   "devDependencies": {
     "@vant/auto-import-resolver": "^1.0.2",
